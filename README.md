@@ -44,4 +44,5 @@ This project is a **Twitter UI Clone**, developed to replicate the look and feel
    git clone https://github.com/your-username/twitter-ui-clone.git
 
 2. Change the directory:
+   ```bash
    cd twitter-ui-clone
